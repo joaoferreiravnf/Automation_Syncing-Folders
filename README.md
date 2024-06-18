@@ -1,4 +1,4 @@
-Folder Synchronization Tool
+# Folder Synchronization Tool
 
 This program synchronizes two folders: source and replica. It ensures that the replica folder maintains a complete and identical copy of the source folder.
 
